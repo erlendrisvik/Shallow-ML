@@ -1,6 +1,6 @@
 # Shallow-ML
 
-Simple notebooks to demonstrate custom implementation of few selected machine learning algorithms. 
+Simple notebooks to demonstrate custom implementations of few selected machine learning algorithms. 
 
 ## Contains
 - Linear regression with ridge regression
